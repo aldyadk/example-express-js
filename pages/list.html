@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+</head>
+<body>
+    <div style="background-color: darkcyan;">
+        <img src="kucing3.png" style="width: 15%"> 
+        <span style="font-size: 25px; font-weight: bold;">
+            Website Kucing.co.cat
+        </span>
+        <a href="/">Home</a>
+        <a href="/about">About</a>
+        <a href="/contact">Contact</a>
+        <a href="/list">list</a>
+    </div>
+    <h1>LIST</h1>
+    <h3>ini halaman list</h3>
+    <button onclick="loadList()">LOAD LIST!</button>
+    <ul id="target"></ul>
+    <script src="js/clickHandler.js"></script>
+    <script>
+        function loadList() {
+            axios
+                .get('/json/animals.json')
+                .then(res=>{
+                    const animals = res.data
+                    console.log(animals)
+                    if(animals.length > 0){
+                        animals.forEach(v => {
+                            const n = v.name
+                            const sc = v.scientific_name
+                            const li = document.createElement('li')
+                            li.textContent = `${n} - ${sc}`
+                            document
+                                .querySelector('#target')
+                                .appendChild(li)
+                        })
+                    }
+                })
+                .catch(err=>{
+                    console.log(err)
+                })
+        }
+    </script>
+</body>
+</html>

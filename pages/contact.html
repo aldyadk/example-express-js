@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+</head>
+<body>
+    <div style="background-color: darkcyan;">
+        <img src="kucing3.png" style="width: 15%"> 
+        <span style="font-size: 25px; font-weight: bold;">
+            Website Kucing.co.cat
+        </span>
+        <a href="/">Home</a>
+        <a href="/about">About</a>
+        <a href="/contact">Contact</a>
+        <a href="/list">list</a>
+    </div>
+    <h1>CONTACT ME</h1>
+    <h3>ini halaman contact</h3>
+    <form action="api/question" method="post">
+        <label>Nama</label><br>
+        <input id="user_name" type="text" name="user_name"><br>
+        <label>Pertanyaan</label><br>
+        <textarea id="question" name="question"  cols="30" rows="10"></textarea><br>
+        <!-- <input type="submit" value="SEND!"> -->
+        <button type="button" id="buttonSend">SEND!</button>
+    </form>
+    <script src="js/clickHandler.js"></script>
+    <script>
+        // console.log(axios)
+        // axios
+        //     .get('http://localhost:3000/api/tes')
+        //     .then((res)=>{
+        //         console.log(res.data)
+        //     })
+        //     .catch(err=>{
+        //         console.log(err)
+        //     })
+        document
+            .querySelector('#buttonSend')
+            .addEventListener('click',function () {
+                const user_name = document.querySelector('#user_name').value
+                const question = document.querySelector('#question').value
+                const formObj = {
+                    user_name: user_name,
+                    question: question
+                }
+                axios
+                    .post('/api/question', formObj)
+                    .then((res)=>{
+                        console.log(res.data)
+                    })
+                    .catch(err=>{
+                        console.log(err)
+                    })
+            })
+    </script>
+</body>
+</html>

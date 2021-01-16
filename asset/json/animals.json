@@ -1,0 +1,401 @@
+[{
+    "id": 1,
+    "name": "Red-winged blackbird",
+    "scientific_name": "Agelaius phoeniceus"
+  }, {
+    "id": 2,
+    "name": "White-fronted capuchin",
+    "scientific_name": "Cebus albifrons"
+  }, {
+    "id": 3,
+    "name": "Klipspringer",
+    "scientific_name": "Oreotragus oreotragus"
+  }, {
+    "id": 4,
+    "name": "Greylag goose",
+    "scientific_name": "Anser anser"
+  }, {
+    "id": 5,
+    "name": "Sidewinder",
+    "scientific_name": "Crotalus cerastes"
+  }, {
+    "id": 6,
+    "name": "Eastern fox squirrel",
+    "scientific_name": "Sciurus niger"
+  }, {
+    "id": 7,
+    "name": "Common wombat",
+    "scientific_name": "Vombatus ursinus"
+  }, {
+    "id": 8,
+    "name": "Lion, mountain",
+    "scientific_name": "Felis concolor"
+  }, {
+    "id": 9,
+    "name": "Cougar",
+    "scientific_name": "Felis concolor"
+  }, {
+    "id": 10,
+    "name": "Dolphin, bottle-nose",
+    "scientific_name": "Tursiops truncatus"
+  }, {
+    "id": 11,
+    "name": "Cat, tiger",
+    "scientific_name": "Dasyurus maculatus"
+  }, {
+    "id": 12,
+    "name": "Thomson's gazelle",
+    "scientific_name": "Gazella thompsonii"
+  }, {
+    "id": 13,
+    "name": "Green-backed heron",
+    "scientific_name": "Butorides striatus"
+  }, {
+    "id": 14,
+    "name": "Blue and gold macaw",
+    "scientific_name": "Ara ararauna"
+  }, {
+    "id": 15,
+    "name": "Mexican beaded lizard",
+    "scientific_name": "Heloderma horridum"
+  }, {
+    "id": 16,
+    "name": "Coqui francolin",
+    "scientific_name": "Francolinus coqui"
+  }, {
+    "id": 17,
+    "name": "Peacock, indian",
+    "scientific_name": "Pavo cristatus"
+  }, {
+    "id": 18,
+    "name": "Indian star tortoise",
+    "scientific_name": "Geochelone elegans"
+  }, {
+    "id": 19,
+    "name": "Pale white-eye",
+    "scientific_name": "Zosterops pallidus"
+  }, {
+    "id": 20,
+    "name": "Blue-tongued lizard",
+    "scientific_name": "Tiliqua scincoides"
+  }, {
+    "id": 21,
+    "name": "Horned puffin",
+    "scientific_name": "Fratercula corniculata"
+  }, {
+    "id": 22,
+    "name": "White-fronted bee-eater",
+    "scientific_name": "Merops bullockoides"
+  }, {
+    "id": 23,
+    "name": "Phalarope, red-necked",
+    "scientific_name": "Phalaropus lobatus"
+  }, {
+    "id": 24,
+    "name": "Timber wolf",
+    "scientific_name": "Canis lupus lycaon"
+  }, {
+    "id": 25,
+    "name": "Falcon, peregrine",
+    "scientific_name": "Falco peregrinus"
+  }, {
+    "id": 26,
+    "name": "Wood pigeon",
+    "scientific_name": "Columba palumbus"
+  }, {
+    "id": 27,
+    "name": "Frogmouth, tawny",
+    "scientific_name": "Podargus strigoides"
+  }, {
+    "id": 28,
+    "name": "Puffin, horned",
+    "scientific_name": "Fratercula corniculata"
+  }, {
+    "id": 29,
+    "name": "Tarantula",
+    "scientific_name": "Lasiodora parahybana"
+  }, {
+    "id": 30,
+    "name": "Black rhinoceros",
+    "scientific_name": "Diceros bicornis"
+  }, {
+    "id": 31,
+    "name": "African buffalo",
+    "scientific_name": "Snycerus caffer"
+  }, {
+    "id": 32,
+    "name": "Thrasher, curve-billed",
+    "scientific_name": "Toxostoma curvirostre"
+  }, {
+    "id": 33,
+    "name": "Savanna baboon",
+    "scientific_name": "Papio cynocephalus"
+  }, {
+    "id": 34,
+    "name": "Bottle-nose dolphin",
+    "scientific_name": "Tursiops truncatus"
+  }, {
+    "id": 35,
+    "name": "Hoary marmot",
+    "scientific_name": "Marmota caligata"
+  }, {
+    "id": 36,
+    "name": "Four-horned antelope",
+    "scientific_name": "Tetracerus quadricornis"
+  }, {
+    "id": 37,
+    "name": "Mexican boa",
+    "scientific_name": "Boa constrictor mexicana"
+  }, {
+    "id": 38,
+    "name": "Starling, superb",
+    "scientific_name": "Lamprotornis superbus"
+  }, {
+    "id": 39,
+    "name": "Goose, cape barren",
+    "scientific_name": "Cereopsis novaehollandiae"
+  }, {
+    "id": 40,
+    "name": "Macaw, scarlet",
+    "scientific_name": "Ara macao"
+  }, {
+    "id": 41,
+    "name": "Turtle, long-necked",
+    "scientific_name": "Chelodina longicollis"
+  }, {
+    "id": 42,
+    "name": "Mule deer",
+    "scientific_name": "Odocoileus hemionus"
+  }, {
+    "id": 43,
+    "name": "Wolf, common",
+    "scientific_name": "Canis lupus"
+  }, {
+    "id": 44,
+    "name": "Harbor seal",
+    "scientific_name": "Phoca vitulina"
+  }, {
+    "id": 45,
+    "name": "Gray duiker",
+    "scientific_name": "Sylvicapra grimma"
+  }, {
+    "id": 46,
+    "name": "Ringtail",
+    "scientific_name": "Bassariscus astutus"
+  }, {
+    "id": 47,
+    "name": "Gray heron",
+    "scientific_name": "Ardea cinerea"
+  }, {
+    "id": 48,
+    "name": "Northern phalarope",
+    "scientific_name": "Phalaropus lobatus"
+  }, {
+    "id": 49,
+    "name": "Galapagos tortoise",
+    "scientific_name": "Geochelone elephantopus"
+  }, {
+    "id": 50,
+    "name": "Bushbaby, large-eared",
+    "scientific_name": "Galago crassicaudataus"
+  }, {
+    "id": 51,
+    "name": "Plover, three-banded",
+    "scientific_name": "Charadrius tricollaris"
+  }, {
+    "id": 52,
+    "name": "Great skua",
+    "scientific_name": "Catharacta skua"
+  }, {
+    "id": 53,
+    "name": "Bare-faced go away bird",
+    "scientific_name": "Lorythaixoides concolor"
+  }, {
+    "id": 54,
+    "name": "Dove, mourning collared",
+    "scientific_name": "Streptopelia decipiens"
+  }, {
+    "id": 55,
+    "name": "Mexican beaded lizard",
+    "scientific_name": "Heloderma horridum"
+  }, {
+    "id": 56,
+    "name": "Lily trotter",
+    "scientific_name": "Actophilornis africanus"
+  }, {
+    "id": 57,
+    "name": "Lizard, collared",
+    "scientific_name": "Crotaphytus collaris"
+  }, {
+    "id": 58,
+    "name": "Caiman, spectacled",
+    "scientific_name": "Caiman crocodilus"
+  }, {
+    "id": 59,
+    "name": "Kangaroo, black-faced",
+    "scientific_name": "Macropus fuliginosus"
+  }, {
+    "id": 60,
+    "name": "Capuchin, white-fronted",
+    "scientific_name": "Cebus albifrons"
+  }, {
+    "id": 61,
+    "name": "Cape clawless otter",
+    "scientific_name": "Aonyx capensis"
+  }, {
+    "id": 62,
+    "name": "Cottonmouth",
+    "scientific_name": "Agkistrodon piscivorus"
+  }, {
+    "id": 63,
+    "name": "Puffin, horned",
+    "scientific_name": "Fratercula corniculata"
+  }, {
+    "id": 64,
+    "name": "Cockatoo, slender-billed",
+    "scientific_name": "Cacatua tenuirostris"
+  }, {
+    "id": 65,
+    "name": "Duck, comb",
+    "scientific_name": "Sarkidornis melanotos"
+  }, {
+    "id": 66,
+    "name": "Magellanic penguin",
+    "scientific_name": "Spheniscus magellanicus"
+  }, {
+    "id": 67,
+    "name": "Ostrich",
+    "scientific_name": "Struthio camelus"
+  }, {
+    "id": 68,
+    "name": "Silver gull",
+    "scientific_name": "Larus novaehollandiae"
+  }, {
+    "id": 69,
+    "name": "Fox, cape",
+    "scientific_name": "Vulpes chama"
+  }, {
+    "id": 70,
+    "name": "Buffalo, asian water",
+    "scientific_name": "Bubalus arnee"
+  }, {
+    "id": 71,
+    "name": "Coyote",
+    "scientific_name": "Canis latrans"
+  }, {
+    "id": 72,
+    "name": "Asian red fox",
+    "scientific_name": "Vulpes vulpes"
+  }, {
+    "id": 73,
+    "name": "Eastern boa constrictor",
+    "scientific_name": "Acrantophis madagascariensis"
+  }, {
+    "id": 74,
+    "name": "Dragon, western bearded",
+    "scientific_name": "Amphibolurus barbatus"
+  }, {
+    "id": 75,
+    "name": "Dove, white-winged",
+    "scientific_name": "Zenaida asiatica"
+  }, {
+    "id": 76,
+    "name": "Heron, black-crowned night",
+    "scientific_name": "Nycticorax nycticorax"
+  }, {
+    "id": 77,
+    "name": "American marten",
+    "scientific_name": "Martes americana"
+  }, {
+    "id": 78,
+    "name": "American bison",
+    "scientific_name": "Bison bison"
+  }, {
+    "id": 79,
+    "name": "Egret, snowy",
+    "scientific_name": "Egretta thula"
+  }, {
+    "id": 80,
+    "name": "Phalarope, red-necked",
+    "scientific_name": "Phalaropus lobatus"
+  }, {
+    "id": 81,
+    "name": "Magellanic penguin",
+    "scientific_name": "Spheniscus magellanicus"
+  }, {
+    "id": 82,
+    "name": "Chilean flamingo",
+    "scientific_name": "Phoenicopterus chilensis"
+  }, {
+    "id": 83,
+    "name": "Thomson's gazelle",
+    "scientific_name": "Gazella thompsonii"
+  }, {
+    "id": 84,
+    "name": "Asian lion",
+    "scientific_name": "Panthera leo persica"
+  }, {
+    "id": 85,
+    "name": "Chipmunk, least",
+    "scientific_name": "Eutamias minimus"
+  }, {
+    "id": 86,
+    "name": "Wattled crane",
+    "scientific_name": "Bugeranus caruncalatus"
+  }, {
+    "id": 87,
+    "name": "Grouse, greater sage",
+    "scientific_name": "Centrocercus urophasianus"
+  }, {
+    "id": 88,
+    "name": "Little brown dove",
+    "scientific_name": "Streptopelia senegalensis"
+  }, {
+    "id": 89,
+    "name": "Collared lemming",
+    "scientific_name": "Dicrostonyx groenlandicus"
+  }, {
+    "id": 90,
+    "name": "Lemur, brown",
+    "scientific_name": "Lemur fulvus"
+  }, {
+    "id": 91,
+    "name": "Ibis, puna",
+    "scientific_name": "Plegadis ridgwayi"
+  }, {
+    "id": 92,
+    "name": "Baboon, savanna",
+    "scientific_name": "Papio cynocephalus"
+  }, {
+    "id": 93,
+    "name": "Madagascar hawk owl",
+    "scientific_name": "Ninox superciliaris"
+  }, {
+    "id": 94,
+    "name": "Swan, black",
+    "scientific_name": "Cygnus atratus"
+  }, {
+    "id": 95,
+    "name": "Bird, magnificent frigate",
+    "scientific_name": "Fregata magnificans"
+  }, {
+    "id": 96,
+    "name": "Southern right whale",
+    "scientific_name": "Eubalaena australis"
+  }, {
+    "id": 97,
+    "name": "Pine snake (unidentified)",
+    "scientific_name": "Pituophis melanaleucus"
+  }, {
+    "id": 98,
+    "name": "Canada goose",
+    "scientific_name": "Branta canadensis"
+  }, {
+    "id": 99,
+    "name": "Grey phalarope",
+    "scientific_name": "Phalaropus fulicarius"
+  }, {
+    "id": 100,
+    "name": "Galapagos hawk",
+    "scientific_name": "Buteo galapagoensis"
+  }]
